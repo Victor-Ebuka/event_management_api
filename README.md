@@ -1,2 +1,3 @@
-# event_management_api
+# Event Management Api
+
 API for an Event management system

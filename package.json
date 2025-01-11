@@ -1,0 +1,28 @@
+{
+  "name": "event_management_api",
+  "version": "1.0.0",
+  "description": "API for an event management system",
+  "homepage": "https://github.com/Victor-Ebuka/event_management_api#readme",
+  "bugs": {
+    "url": "https://github.com/Victor-Ebuka/event_management_api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-Ebuka/event_management_api.git"
+  },
+  "license": "ISC",
+  "author": "victor",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "joi": "^17.13.3",
+    "pg": "^8.13.1"
+  }
+}
